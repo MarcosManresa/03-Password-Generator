@@ -21,7 +21,7 @@ Smaller-Device View:
 ### Open your web browser and enter this link.
 
 ```html
-https://marcosmanresa.github.io/03-Password-Generator-Project/
+https://marcosmanresa.github.io/03-Password-Generator/
 ```
 
 <a name="usage-tips"></a>
