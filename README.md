@@ -11,9 +11,6 @@
 Desktop View:
 ![Top-Page](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/xxxvv.PNG)
 
-Smaller-Device View:
-
-![Phone-view](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/rwrw.PNG)
 
 <a name="website-address"></a>
 ## 2. Where to go
@@ -31,15 +28,13 @@ https://marcosmanresa.github.io/03-Password-Generator/
 
 ![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/4141.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/t3t3.PNG)
+![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/sda.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/6363.PNG)
+![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/endquiz.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/6262.PNG)
+![Usage-tip](https://github.com/MarcosManresa/04-Web-Api-Quiz/blob/main/images/highscore-2.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/password-gen1.PNG)
 
-![Usage-tip](https://github.com/MarcosManresa/03-Password-Generator/blob/main/images/514.PNG)
 
 <a name="psuedo-code"></a>
 ## 4.Psuedo-Code
